@@ -1,1 +1,1 @@
-# Forest_FIre_Analysis-
+# Forest_Fire_Analysis-
